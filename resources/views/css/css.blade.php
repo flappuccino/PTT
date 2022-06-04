@@ -1,0 +1,3 @@
+.carousel {
+   min-height: auto;
+}
